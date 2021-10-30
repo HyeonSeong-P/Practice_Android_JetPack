@@ -1,0 +1,30 @@
+com/phs/myapplication/databinding/FragmentTestBinding.java
+ com.phs.myapplication.databinding.FragmentTestBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/phs/myapplication/BR.java
+ com.phs.myapplication.BR
+com/phs/myapplication/generated/callback/OnClickListener.java
+ com.phs.myapplication.generated.callback.OnClickListener
+ com.phs.myapplication.generated.callback.OnClickListener$Listener
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/phs/myapplication/databinding/FragmentHomeBinding.java
+ com.phs.myapplication.databinding.FragmentHomeBinding
+com/phs/myapplication/DataBindingTriggerClass.java
+ com.phs.myapplication.DataBindingTriggerClass
+com/phs/myapplication/BuildConfig.java
+ com.phs.myapplication.BuildConfig
+com/phs/myapplication/databinding/ActivityMainBinding.java
+ com.phs.myapplication.databinding.ActivityMainBinding
+com/phs/myapplication/DataBinderMapperImpl.java
+ com.phs.myapplication.DataBinderMapperImpl
+ com.phs.myapplication.DataBinderMapperImpl$InnerBrLookup
+ com.phs.myapplication.DataBinderMapperImpl$InnerLayoutIdLookup
+com/phs/myapplication/databinding/FragmentJustBindingImpl.java
+ com.phs.myapplication.databinding.FragmentJustBindingImpl
+ com.phs.myapplication.databinding.FragmentJustBindingImpl$1
+com/phs/myapplication/databinding/FragmentJustBinding.java
+ com.phs.myapplication.databinding.FragmentJustBinding
